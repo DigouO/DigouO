@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá, eu sou Rodrigo! 👋
 
-<!--
-**DigouO/DigouO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+:computer: Desenvolvedor de Sistemas | C# | .NET | SQL | Python | Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:mortar_board: Análise e Desenvolvimento de Sistemas - FIAP (2023/2024) 
+
+:mortar_board: Fundação Bradesco - Ensino Médio (2010-2012)
+
+:thought_balloon:"A jornada pode ser longa, mas cada passo te aproxima do destino."
+
+
+
