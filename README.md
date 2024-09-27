@@ -10,5 +10,7 @@
 
 :thought_balloon:"A jornada pode ser longa, mas cada passo te aproxima do destino."
 
+## Tecnologias
 
+          
 
