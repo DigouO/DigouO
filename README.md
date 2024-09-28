@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="180px" align="left">
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="170px" align="left">
 
 <div align="center"> 
           
@@ -26,27 +26,24 @@
 
 Front-end | Back-end | Estudando Atualmente
 :---------:|:---------:|:----------------------:
-<a href=" " target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /></a><a href=" " target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></a><a href=" " target="_blank"><img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a><a href=" " target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /></a><a href=" " target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/></a> | <a href=" " target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a><a href=" " target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" /></a><a href=" " target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/></a><a href=" " target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a> | <a href=" " target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" /></a><a href=" " target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"/></a><a href="" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg"/></a><a href=" " target="_blank"><img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" /></a><a href=" " target="_blank"><img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" /></a> 
+<a href=" " target="_blank"><img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /></a><a href=" " target="_blank"><img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></a><a href=" " target="_blank"><img  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a><a href=" " target="_blank"><img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /></a><a href=" " target="_blank"><img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/></a> | <a href=" " target="_blank"><img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a><a href=" " target="_blank"><img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" /></a><a href=" " target="_blank"><img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/></a><a href=" " target="_blank"><img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a> | <a href=" " target="_blank"><img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" /></a><a href=" " target="_blank"><img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"/></a><a href="" target="_blank"><img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg"/></a><a href=" " target="_blank"><img  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" /></a><a href=" " target="_blank"><img  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" /></a> 
 
 </div>
           
 ## Contato
 
 <div align="center">
+          
   <a href="https://www.linkedin.com/in/rodrigofribeiro95" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href=" " target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href ="rodrigofr41@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <br>
           
 <br>
-          
-<a href="https://github.com/DigouO">
 
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=DigouO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src='https://github-readme-streak-stats.herokuapp.com?user=DigouO&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D'/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DigouO&layout=compact&langs_count=7&hide=hack,scss,less,stylus&theme=dracula"/>
+Estatístico | Contribuições | Tecnologias e Linguagens
+:---------:|:---------:|:----------------------:          
+<a href="https://github.com/DigouO"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=DigouO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> | <img height="160em" src='https://github-readme-streak-stats.herokuapp.com?user=DigouO&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D'/> | <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DigouO&layout=compact&langs_count=7&hide=hack,scss,less,stylus&theme=dracula"/>
 </a>
 
 <picture>
@@ -63,6 +60,8 @@ Front-end | Back-end | Estudando Atualmente
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+</div>
 
 <!--
 **DigouO/RodrigoF.Ribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
