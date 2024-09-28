@@ -37,18 +37,30 @@ Front-end | Back-end | Estudando Atualmente
   <a href=" " target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "rodrigofr41@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <br><br>
-  <a href="https://github.com/DigouO">
+          
+<a href="https://github.com/DigouO">
 
 <!--
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DigouO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 -->
 <img height="180em" src='https://github-readme-streak-stats.herokuapp.com?user=DigouO&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D'/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DigouO&layout=compact&langs_count=7&hide=hack,scss,less,stylus&theme=dracula"/>
-
-
-![Snake animation](https://github.com/DigouO/RodrigoF.Ribeiro/blob/output/github-contribution-grid-snake.svg)
-
 </a>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/DigouO/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/DigouO/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/DigouO/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 <!--
 **DigouO/RodrigoF.Ribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
