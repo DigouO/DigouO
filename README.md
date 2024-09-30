@@ -40,11 +40,11 @@ Front-end | Back-end | Estudando Atualmente
 <br>
           
 <br>
-<!--
+
 Estatístico | Contribuições | Tecnologias e Linguagens
 :---------:|:---------:|:----------------------:          
 <a href="https://github.com/DigouO"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=DigouO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> | <img height="160em" src='https://github-readme-streak-stats.herokuapp.com?user=DigouO&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D'/> | <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DigouO&layout=compact&langs_count=7&hide=hack,scss,less,stylus&theme=dracula"/>
-</a>-->
+</a>
 
 <picture>
   <source
