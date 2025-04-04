@@ -10,8 +10,8 @@
 :mortar_board: Análise e Desenvolvimento de Sistemas - FIAP (2023/2024) <br>
 :mortar_board: Fundação Bradesco - Ensino Médio (2010-2012) <br>
 
-:books: Estudando Inteligência Artificial e Computacional - FIAP :globe_with_meridians: (2024) <br>
-:books: Estudando AI Regenerativa - Alura :globe_with_meridians: (2024) <br>
+:books: Estudando Inteligência Artificial e Computacional - FIAP :globe_with_meridians: (2025) <br>
+:books: Estudando AI Regenerativa - Alura :globe_with_meridians: (2025) <br>
 
 :thought_balloon: <em> "A jornada pode ser longa, mas cada passo te aproxima do destino." </em> <br> 
 
